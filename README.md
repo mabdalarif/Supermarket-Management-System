@@ -1,5 +1,6 @@
 # Supermarket-Management-System
 A C++ Supermarket Managment System built for our CS-101 semester project
+<br/>
 Group Members : 3
 <br/>
 Mohammd Abdal Arif ----> 2026358
